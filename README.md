@@ -14,7 +14,7 @@ I recommend installing PSHTML from the PowerShell Gallery
 
 I hope you find this helpful and I welcome any advice or issues you may find using this tool.
 
-# Running to code
+# Running the Code
 Load the function into memory and simply run the command:
   PS C:\Users\Rico\OneDrive\Documents\GitHub\Remote-Reliability-History> Get-ReliabilityHistory -ComputerName <computer name>
 
