@@ -13,3 +13,11 @@ PSHTML is the core of what makes this graph work, so be sure the module is insta
 I recommend installing PSHTML from the PowerShell Gallery 
 
 I hope you find this helpful and I welcome any advice or issues you may find using this tool.
+
+# Launching Reliability Monitor
+Reliability Monitor is built into Windows 7, Windows 10 and 11. I am currently only testing on Windows 10, so if you find issues please let me know of them too.
+
+To access Reliability Monitor on your PC
+  1. Open Control Panel.
+  2. Open Security and Maintenance.
+  3. Expand the Maintenance Category, then select “View Reliability history” under the heading that reads “Check for solutions to problem reports.”
