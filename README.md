@@ -14,6 +14,10 @@ I recommend installing PSHTML from the PowerShell Gallery
 
 I hope you find this helpful and I welcome any advice or issues you may find using this tool.
 
+# Running to code
+Load the function into memory and simply run the command:
+  PS C:\Users\Rico\OneDrive\Documents\GitHub\Remote-Reliability-History> Get-ReliabilityHistory -ComputerName <computer name>
+
 # Launching Reliability Monitor
 Reliability Monitor is built into Windows 7, Windows 10 and 11. I am currently only testing on Windows 10, so if you find issues please let me know of them too.
 
